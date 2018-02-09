@@ -1,0 +1,8 @@
+this
+is
+a
+test
+file
+to see if
+the lex program
+works!

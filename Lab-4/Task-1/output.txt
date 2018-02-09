@@ -1,0 +1,8 @@
+ 1: this
+ 2: is
+ 3: a
+ 4: test
+ 5: file
+ 6: to see if
+ 7: the lex program
+ 8: works!
